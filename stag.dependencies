@@ -1,6 +1,26 @@
 [
   {
-    "repository": "android_device_xiaomi_sm6150-common",
-    "target_path": "device/xiaomi/sm6150-common"
+    "repository": "device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "wip",
+    "remote": "stagos-devices"
+  },
+  {
+    "repository": "kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "sx",
+    "remote": "stagos-devices"
+  },
+  {
+    "repository": "vendor_xiaomi_violet",
+    "target_path": "vendor/xiaomi",
+    "branch": "wip",
+    "remote": "stagos-devices"
+  },
+  {
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "sx",
+    "remote": "stagos-devices"
   }
 ]
