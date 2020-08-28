@@ -18,4 +18,4 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 TARGET_BOOT_ANIMATION_RES := 1080
 
-BUILD_FINGERPRINT := google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys
+BUILD_FINGERPRINT := google/flame/flame:10/QQ3A.200805.001/6578210:user/release-keys
