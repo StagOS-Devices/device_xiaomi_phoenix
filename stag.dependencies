@@ -15,7 +15,7 @@
     "repository": "vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi",
     "branch": "wip",
-    "remote": "stagos-devices"
+    "remote": "gitlab-stag"
   },
   {
     "repository": "hardware_xiaomi",
