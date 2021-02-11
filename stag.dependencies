@@ -1,0 +1,26 @@
+[
+ {
+   "repository": "device_xiaomi_sm6150-common",
+   "target_path": "device/xiaomi/sm6150-common",
+   "branch": "r11",
+   "remote": "stagos-devices"
+ },
+ {
+   "repository": "xiaomi-sm6150/android_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "branch": "lineage-18.1-phoenix",
+   "remote": "github"
+ },
+ {
+   "repository": "xiaomi-sm6150/android_kernel_xiaomi_sm6150",
+   "target_path": "kernel/xiaomi/sm6150",
+   "branch": "phoenix_lineage-18.1",
+   "remote": "github"
+ },
+ {
+   "repository": "LineageOS/android_hardware_xiaomi",
+   "target_path": "hardware/xiaomi",
+   "branch": "lineage-18.1",
+   "remote": "github"
+ }
+ ]
