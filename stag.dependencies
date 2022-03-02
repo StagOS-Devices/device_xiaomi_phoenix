@@ -1,0 +1,38 @@
+[
+ {
+   "repository": "device_xiaomi_sm6150-common",
+   "target_path": "device/xiaomi/sm6150-common",
+   "branch": "s12",
+   "remote": "stagos-devices"
+  },
+  {
+    "remote": "github",
+    "repository": "pa-phoenix/android_vendor_xiaomi/",
+    "target_path": "vendor/xiaomi",
+    "branch": "skylight"
+  },
+  {
+    "remote": "github"
+    "repository": "elytraOS/kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "skylight"
+  },
+  {
+    "remote": "github",
+    "repository": "elytraOS/hardware_qcom-caf_sm8150_display",
+    "branch": "skylight",
+    "target_path": "hardware/qcom-caf/sm8150/display"
+  },
+  {
+    "remote": "github",
+    "repository": "elytraOS/hardware_qcom-caf_sm8150_media",
+    "branch": "skylight",
+    "target_path": "hardware/qcom-caf/sm8150/media"
+  },
+  {
+    "remote": "github",
+    "repository": "elytraOS/hardware_qcom-caf_sm8150_audio",
+    "branch": "skylight",
+    "target_path": "hardware/qcom-caf/sm8150/audio"
+  }
+]
