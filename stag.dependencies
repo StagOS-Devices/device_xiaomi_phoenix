@@ -1,0 +1,25 @@
+[
+  {
+    "remote": "github",
+    "repository": "xiaomi-sm6150/android_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "lineage-19.1"
+  },
+  {
+    "repository": "device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "s12.1"
+  },
+  {
+    "remote": "github",
+    "repository": "elytraOS/kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "scorch"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-19.1"
+  }
+]

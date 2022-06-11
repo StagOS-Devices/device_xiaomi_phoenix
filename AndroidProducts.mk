@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/elytra_phoenix.mk
+    $(LOCAL_DIR)/stag_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    elytra_phoenix-user \
-    elytra_phoenix-userdebug \
-    elytra_phoenix-eng
+    stag_phoenix-user \
+    stag_phoenix-userdebug \
+    stag_phoenix-eng
